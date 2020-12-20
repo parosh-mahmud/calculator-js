@@ -64,3 +64,4 @@ function clr() {
     document.getElementById("edu").value=""
 }
 
+//practicing git 
