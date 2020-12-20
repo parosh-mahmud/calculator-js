@@ -64,4 +64,4 @@ function clr() {
     document.getElementById("edu").value=""
 }
 
-//------------------THE END------------------------
+//------------------THE END------------------------//
